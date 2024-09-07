@@ -39,7 +39,9 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 vi ~/.zshrc
 ```
 add zsh-autosuggestions in plugins
-
+```
+plugins=( [plugins...] zsh-autosuggestions)
+```
 
 ### Syntax Highlighter
 ```bash
