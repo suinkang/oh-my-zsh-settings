@@ -1,5 +1,10 @@
 # oh-my-zsh-settings
 
+## Install requirements
+```
+sudo apt install wget curl git
+```
+
 ## Install zsh 
 ### For Mac OS
 ```bash
