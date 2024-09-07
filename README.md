@@ -1,8 +1,14 @@
 # oh-my-zsh-settings
 
-## Install zsh
+## Install zsh 
+### For Mac OS
 ```bash
 brew install zsh
+```
+
+### For ubuntu
+```bash
+sudo apt install zsh
 ```
 
 ## Install oh-my-zsh
