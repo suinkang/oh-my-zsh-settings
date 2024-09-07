@@ -23,10 +23,15 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 ## Set zsh theme
-1. $ vi ~/.zshrc
-2. ZSH_THEME=”agnoster”
-3. $ source ~/.zshrc
+update zsh theme to agnoster
+```
+vi ~/.zshrc
+```
+ZSH_THEME=”agnoster”
 
+```
+source ~/.zshrc
+```
 ## Install plugins
 ### Auto suggestions
 ```bash
